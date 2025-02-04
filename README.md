@@ -1,5 +1,5 @@
 # MedQuestV1
-# 📡 Transmisión de Cámara de PC a Oculus Quest 2  
+# 📡 Transmisión de Cámara de PC a Oculus Quest   
 
 Este proyecto permite transmitir la cámara de una PC a las **Oculus Quest 2** utilizando **Python**, **Flask** y **OpenCV**. Se ejecuta un servidor local que envía el video en vivo y puede verse desde el navegador de las Quest.  
 
